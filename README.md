@@ -10,6 +10,10 @@ Simple single page application built for studying purposes to play around with c
 
 ## To run the app after cloning:
 
+Get your Spotify credentials at https://developer.spotify.com/dashboard
+
+Then, create a `env` file with `CLIENT_ID` and `CLIENT_SECRET`
+
 ```
  cd server
  yarn 
